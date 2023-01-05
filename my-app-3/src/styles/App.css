@@ -10,14 +10,29 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 20%;
+    height: 100px;
+    padding: 20px 10%;
     background-color: #24252A;
+    margin-bottom: 15px;
+}
+
+.Links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo span {
+    font-size: 30px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
 }
 
 .nav a, li {
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 20px;
     color: white;
     text-decoration: none;
+    padding-left: 120px;
 }
