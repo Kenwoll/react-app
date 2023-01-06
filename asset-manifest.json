@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.1ac5cfd9.css",
+    "main.js": "/react-app/static/js/main.b1b55b97.js",
+    "static/media/gulnara.jpg": "/react-app/static/media/gulnara.0e738727a7375e5b7705.jpg",
+    "static/media/Murad.jpeg": "/react-app/static/media/Murad.3309db2b0f4daf01d521.jpeg",
+    "static/media/Amir.jpeg": "/react-app/static/media/Amir.de5bbb46aea8608971ad.jpeg",
+    "index.html": "/react-app/index.html",
+    "main.1ac5cfd9.css.map": "/react-app/static/css/main.1ac5cfd9.css.map",
+    "main.b1b55b97.js.map": "/react-app/static/js/main.b1b55b97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ac5cfd9.css",
+    "static/js/main.b1b55b97.js"
+  ]
+}
