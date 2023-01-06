@@ -32,10 +32,12 @@
       width: 100%;
   }
 }
-  #user_name {
+
+#user_name {
     position: absolute;
     bottom: 1px;
 }  
+
 #body_text{
     text-align: center;
     overflow: hidden;
