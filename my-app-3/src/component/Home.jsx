@@ -113,7 +113,7 @@ export default function Home() {
 					<div class="container">
 						<div class="box">HTML5/CSS3</div>
 						<div class="box">JavaScript</div>
-						<div class="box">JavaScript</div>
+						<div class="box">Java</div>
 						<div class="box">SQL/PostgreSQL</div>
 					</div>
 					<br />
@@ -123,7 +123,7 @@ export default function Home() {
 					<div class="abut_me">
 			<h2 class="info">About</h2>
 			{/* About Information */}
-			<p class="info">I'm a junior IT student at ADA University. My favourite programming language is Java. Currently,I'm learning Android Studio to create intriguing mobile apps. When I have free time, I take various photos randomly captured my attention and enjoy designing them in Canva. My main aim in the future is to be a professional Android Developer.
+			<p class="info">I am a junior IT student at ADA University. My favourite programming language is Java. Currently,I am learning Android Studio to create intriguing mobile apps. When I have free time, I take various photos randomly captured my attention and enjoy designing them in Canva. My main aim in the future is to be a professional Android Developer.
 			</p>
 			<br />
 			<h2 class="info">Insterests</h2>
