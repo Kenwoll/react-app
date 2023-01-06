@@ -73,7 +73,7 @@ const Movies = () => {
                 {currentMovie.map(movie => (
                   <NavLink to={`/movies/${movie.id}`}>
                     <div key={movie.id} className='movie-item'>
-                        <img src={movie.Poster_Link.split('V1_')[0] + "SX300.jpg"}></img>
+                        <img className='m-img' src={movie.Poster_Link.split('V1_')[0] + "SX300.jpg"}></img>
                         <div className='img-desc'>
                             <div className='content'>
                                 <h3>{movie.Series_Title}</h3>

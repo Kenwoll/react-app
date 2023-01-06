@@ -75,14 +75,17 @@ const MovieDetails = () => {
                                     <p>Metascore: {movieData.Meta_score}</p>
                                     <p>Gross: {movieData.Gross}</p>
                                     <p>Certificate: {movieData.Certificate}</p>
+                                    <p>Number of votes: {movieData.No_of_Votes}</p>
                                 </div>
                             </div>
                             <div className="actors">
                             <h3>Actors</h3>
-                            <p>{movieData.Star1}</p>
-                            <p>{movieData.Star2}</p>
-                            <p>{movieData.Star3}</p>
-                            <p>{movieData.Star4}</p>
+                            <div classname = "names">
+                                <p>{movieData.Star1}</p>
+                                <p>{movieData.Star2}</p>
+                                <p>{movieData.Star3}</p>
+                                <p>{movieData.Star4}</p>
+                            </div>
                             </div>
                         </div>
                     </div>

@@ -13,7 +13,7 @@ function App() {
       <div className="App">
         <nav className="nav">
           <div className='logo'>
-            <span>Logo</span>
+            <span>MovieDB</span>
           </div>
           <div className='links'>
             <NavLink to="/">Home</NavLink>
